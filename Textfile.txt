@@ -1,2 +1,1 @@
-line from main
-hello my name is nayan 
+Final content from both the branches
